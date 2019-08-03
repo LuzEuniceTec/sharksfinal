@@ -1,5 +1,5 @@
 ---
 applications:
 - buildpack: https://github.com/cloudfoundry/staticfile-buildpack
-  name: oxxohacky
+  name: LaboratoriaHack
   memory: 56M
